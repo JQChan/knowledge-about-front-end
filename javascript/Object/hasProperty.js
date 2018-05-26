@@ -1,4 +1,4 @@
-//使用hasProperty()方法检测给定的名字是否是对象的自有属性
+// 使用hasProperty()方法检测给定的名字是否是对象的自有属性
 var o = {x: 1}
 
 console.log(o.hasOwnProperty("x"));
